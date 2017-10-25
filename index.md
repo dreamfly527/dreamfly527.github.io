@@ -50,5 +50,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
         BigDecimal b2 = new BigDecimal(Double.toString(v2));
         return b1.multiply(b2).doubleValue();
     }
-```markdown
+```
 
