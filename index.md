@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages  欢迎来到我的GITHUB主页
+## Welcome to GitHub Pages  欢迎来到我的GitHub主页
 
 You can use the [editor on GitHub](https://github.com/dreamfly527/dreamfly527.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
