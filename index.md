@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-点击[此处](https://dreamfly527.github.io/index.html)跳转到一个新的页面
+点击[此处](https://dreamfly527.github.io/son.html)跳转到一个新的页面
 ```markdown
 这里可以展示代码
     /**
